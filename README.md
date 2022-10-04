@@ -1,7 +1,4 @@
-### Hi there 👋
 
-<!--
-**Tilak1028-st/Tilak1028-st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # 💫 About Me:
 🔭 I’m currently working on iOS App.<br>👯 I’m looking to collaborate on iOS or C++ project.<br>🌱 I’m currently learning Javascript.<br>💬 Ask me about iOS apps, C++, Datastructures and Algorithm, Database, OS etc.<br>⚡ Fun fact I'm Software Engineer.
 
@@ -27,5 +24,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Tilak1028-st&icon=0&color=0)](https://visitcount.itsvg.in)
-
--->
