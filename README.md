@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on iOS App.<br>👯 I’m looking to collaborate on iOS or C++ project.<br>🌱 I’m currently learning Javascript.<br>💬 Ask me about iOS apps, C++, Datastructures and Algorithm, Database, OS etc.<br>⚡ Fun fact I'm Software Engineer.
+🔭 I’m currently working as iOS Developer..<br>👯 I’m looking to collaborate on iOS or C++ project.<br>🌱 I’m currently learning Javascript.<br>💬 Ask me about iOS apps, C++, Datastructures and Algorithm, Database, OS etc.<br>⚡ Fun fact I'm Software Engineer.
 
 
 ## 🌐 Socials:
