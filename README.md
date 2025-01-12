@@ -15,5 +15,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+✍️ **Favorite Dev Quote:**
+First, solve the problem. Then, write the code.<br>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Tilak1028-st&icon=0&color=0)](https://visitcount.itsvg.in)
