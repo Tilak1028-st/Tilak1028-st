@@ -47,15 +47,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tilak1028-st&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-### ✨ My Contributions Heatmap
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/f5c518/Tilak1028-st" />
-  <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/f7d44c/Tilak1028-st" />
-  <img src="https://ghchart.rshah.org/f7d44c/Tilak1028-st" alt="GitHub Contribution Chart" />
-</picture>
-
-
 ### 📈 Contribution Activity Graph
 [![Tilak's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tilak1028-st&theme=github-dark)]()
 
